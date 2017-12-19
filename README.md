@@ -73,8 +73,8 @@ In the feature ,Robot Helper will be able to do the following:
 <li>Give information about Point Park Bus Schedules</li>
 <li>Tell Students About their Homework</li>
 <li>Walk around Campus and Intearct with people</li>
-<li>and more...<li>
+<li>and more...</li>
 
 <center><h1>Contributing</h1> </center> 
 <li>Lassana Konate</li>
-<li>Mattew Alexamder</li>
+<li>Matthew Alexander</li>
